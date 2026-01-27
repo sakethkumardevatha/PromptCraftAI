@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+groq
+# Optional but recommended for handling environment variables
+python-dotenv
