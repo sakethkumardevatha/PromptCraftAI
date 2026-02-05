@@ -10,7 +10,7 @@ Data Export: Built-in functionality to export your prompt history as a CSV for d
 
 Interactive Dashboard: A clean, responsive UI built with Streamlit.
 Installation & Setup
-git clone https://github.com/your-username/PromptCraftAI.git
+git clone https://github.com/sakethkumardevatha/PromptCraftAI.git
 cd PromptCraftAI
 
 pip install streamlit pandas openai groq
